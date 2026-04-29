@@ -133,4 +133,6 @@ deactivate
 
 ## Citation
 
-If you use this code, please cite the associated research paper on fair adversarial training.
+Code repository is forked from the original implementation by the authors of the paper "On the Alignment between Fairness and Accuracy: from the Perspective of Adversarial Robustness", published by Chengjie Yu, Yiming Ma, and Yizhou Sun in KDD 2024. 
+
+Original code repository: https://github.com/cjy24/fair-adversarial-training
